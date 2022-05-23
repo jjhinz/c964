@@ -4,4 +4,4 @@ watermark==2.3.0
 keras==2.6.0
 matplotlib==3.5.0
 plotly==5.8.0
-sklearn==1.1.1
+scikit-learn==1.1.1

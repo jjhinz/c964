@@ -5,3 +5,4 @@ keras==2.6.0
 matplotlib==3.5.0
 plotly==5.8.0
 scikit-learn==1.0.1
+flask==2.1.2
